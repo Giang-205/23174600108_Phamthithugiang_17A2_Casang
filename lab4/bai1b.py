@@ -8,4 +8,4 @@ while total <= 1000:
         total += n
         if n % 2 == 0:
             a.append(n)
-print("Các số chẵn đã nhập:", a)
+print("Các số lẻ đã nhập:", a)
