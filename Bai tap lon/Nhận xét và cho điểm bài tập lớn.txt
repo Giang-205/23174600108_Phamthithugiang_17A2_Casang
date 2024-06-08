@@ -1,0 +1,11 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: khả năng xảy ra lỗi khi xuất file vì không thêm chế độ đọc Tiếng Việt 
+Điểm: 3.0
+
+File: Không xuất file csv
+Điểm: 0
+
+Có ảnh chạy code
+Điểm: 2.0
+
+Điểm bài tập lớn: 5.0
